@@ -29,7 +29,7 @@ This section of the repository will include all the code developed for the proje
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
 - **Visualization**: Code for creating figures, charts, and interactive visualizations.
 
-## Meeting Notes and Agendas
+## Meeting Notes and Agenda
 
 When you meet with your advisor, collaborators, or a team, you should take notes here. 
 
