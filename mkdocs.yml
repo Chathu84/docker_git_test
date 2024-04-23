@@ -1,11 +1,11 @@
-site_name: 'Git_test_Nayani'
+site_name: 'git_test_Nayani'
 site_description: 'Central resource for ESIIL postdoctoral researchers'
 site_author: Ty Tuff
 site_url: https://Chathu84.github.io/docker_git_test
 
 # Repository
 repo_name: docker_git_test
-repo_url: https://github.com/Git_test_Nayani/docker_git_test
+repo_url: https://github.com/git_test_Nayani/docker_git_test
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
